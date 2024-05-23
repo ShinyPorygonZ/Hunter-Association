@@ -1,6 +1,6 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Delta Green Agent Terminal",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
