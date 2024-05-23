@@ -1,5 +1,17 @@
 [
     {
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Mulder, Fox"
+    },
+
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
         "userId": "help",
         "password": "me",
         "userName": "Mulder, Fox"
@@ -9,5 +21,5 @@
         "userId": "handler",
         "password": "admin",
         "userName": "root"
-    }
+    },
 ]
