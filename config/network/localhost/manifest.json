@@ -1,7 +1,7 @@
 {
     "serverAddress": "32.190.112.115",
     "serverName": "Delta Green Agent Terminal",
-    "iconName": "Delta_Green_Logo.png",
+    "iconName": "Delta-Green-Logo.png",
     "terminalID": "D56",
     "defaultUser": {
         "userId": "user",
