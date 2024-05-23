@@ -1,5 +1,5 @@
 {
-    "serverAddress": "32.190.112.115",
+    "serverAddress": "localhost",
     "serverName": "Delta Green Agent Terminal",
     "iconName": "Logo.png",
     "terminalID": "D56",
