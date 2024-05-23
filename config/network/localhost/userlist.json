@@ -1,12 +1,12 @@
 [
     {
-        "userId": "8A73B5",
-        "password": "trustno1",
+        "userId": "help",
+        "password": "me",
         "userName": "Mulder, Fox"
     },
 
     {
-        "userId": "admin",
+        "userId": "handler",
         "password": "admin",
         "userName": "root"
     }
