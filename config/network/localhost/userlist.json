@@ -2,7 +2,7 @@
     {
         "userId": "8A73B5",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Fox"
     },
 
     {
@@ -14,12 +14,6 @@
     {
         "userId": "Delta",
         "password": "Green",
-        "userName": "Mulder, Fox"
-    },
-
-    {
-        "userId": "handler",
-        "password": "admin",
-        "userName": "root"
+        "userName": "Mulder"
     }
 ]
