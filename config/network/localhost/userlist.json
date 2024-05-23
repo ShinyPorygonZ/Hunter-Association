@@ -1,13 +1,13 @@
 [
     {
-        "userId": "Admin",
-        "password": "Admin",
+        "userId": "admin",
+        "password": "admin",
         "userName": "Mulder, Fox"
-    },
+    }
 
     {
         "userId": "Handler",
         "password": "a",
         "userName": "Mulder, Fox"
-    },
+    }
 ]
