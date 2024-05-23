@@ -2,7 +2,7 @@
     "serverAddress": "localhost",
     "serverName": "Delta Green Agent Terminal",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "D56",
     "defaultUser": {
         "userId": "user",
         "password": "",
