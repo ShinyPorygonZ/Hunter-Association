@@ -1,15 +1,15 @@
 [
     {
         "from": "Handler",
-        "to": ["Delta", "Handler"],
+        "to": ["Delta"],
         "title": "Operation Maintain Veil",
         "body": "Retired Delta Green Agent Clyde Baughman has died of natural causes. Your mission parameters are as follows.  Proceed to residence of Clyde Baughman.  Remove any evidence of Delta Green's activities.  Baughman's heirs are expected within 48 hours. Ensure everything is clean by then.  Involve no one else in this operation.  Deliver daily reports over a secure line.  If you find any signs that Baughman violated Delta Green security, report them.  A dossier on Baughman will be delivered in a following email."
     },
 
     {
         "from": "Handler",
-        "to": ["Delta", "Handler"],
+        "to": ["Delta"],
         "title": "Clyde Baughman Dossier",
         "body": "Summary of a Report on Clyde Baughman  Family: Wife, Marlene (8/20/1948 to 11/2/2002); Daughter. Sharon (9/12/1967); Son, Michael (7/28/1974).  Occupation: Bureau of Internal Revenue (later IRS) 6/11/1965 - 9/1/1999, retired as Assistant Deputy Commissioner for Operational Support.  Affiliation: Active with group from 1967 to 1970, taking part in eleven operations (details unavailable). No current association with group."
-    },
+    }
 ]
