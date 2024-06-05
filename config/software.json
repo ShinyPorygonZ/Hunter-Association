@@ -25,7 +25,7 @@
             "System successfully corrupted!"
         ]
     },
-    "demons": {
+    "demons.exe": {
         "message": [
             "This command is currently broken. Please use the Mail command to access your demons. Sorry! -Admin",
         ]
