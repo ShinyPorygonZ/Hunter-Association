@@ -32,7 +32,7 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-    "demon": {
+    "demon.exe": {
         "help": "Use this to access your demons. Note: Currently Broken"
         "message": [
             "This command is currently broken. Use the Mail command to access your demons. Sorry - Admin"
