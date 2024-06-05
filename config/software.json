@@ -32,12 +32,6 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-     "Demons": {
-        "delayed": 2000,
-        "message": [
-            "This command is currently broken. Use the Mail Command to access your demons. Sorry! - Admin",
-        ]
-    },
     "artifact": {},
     "decrypt": {},
     "identify": {}
