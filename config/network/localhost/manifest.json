@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Delta Green Agent Terminal",
+    "serverName": "Hunter Association Database",
     "iconName": "Logo.png",
-    "terminalID": "D56",
+    "terminalID": "HA44",
     "defaultUser": {
         "userId": "user",
         "password": "",
