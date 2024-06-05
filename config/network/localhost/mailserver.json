@@ -1,8 +1,8 @@
 [
     {
-        "from": "Handler",
-        "to": ["Delta"],
-        "title": "Operation Maintain Veil",
+        "HP": "Handler",
+        "MP": ["Delta"],
+        "title": "Pixie",
         "body": "Retired Delta Green Agent Clyde Baughman has died of natural causes. Your mission parameters are as follows.  Proceed to residence of Clyde Baughman.  Remove any evidence of Delta Green's activities.  Baughman's heirs are expected within 48 hours. Ensure everything is clean by then.  Involve no one else in this operation.  Deliver daily reports over a secure line.  If you find any signs that Baughman violated Delta Green security, report them.  A dossier on Baughman will be delivered in a following email."
     },
 
